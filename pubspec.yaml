@@ -15,7 +15,7 @@ dependencies:
   shared_preferences: ^2.2.2
   # 状态管理：让 UI 和逻辑解耦
   provider: ^6.1.1
-
+  audio_service: ^0.18.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
